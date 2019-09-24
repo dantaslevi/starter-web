@@ -15,3 +15,7 @@ As stated above, the mais porpose is to provide simple examples for Git training
 This is a simple project, deployment cam be on any web server or even local file system.
 
 ## How To Contribute
+
+## Copyright
+
+2019 dantaslevi
