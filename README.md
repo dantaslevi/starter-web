@@ -1,6 +1,6 @@
 # starter Web Project
 
-This is a simple website project for showing how to use Git and github together. Adding a line for rebase example.
+This is a simple website project for showing how to use Git and github together. Updating for emergency fix after stashing
 
 ## Introduction
 
@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review
 
 ## Copyright
 
-2019 dantaslevi
+2019 dantaslevi All right reverved
